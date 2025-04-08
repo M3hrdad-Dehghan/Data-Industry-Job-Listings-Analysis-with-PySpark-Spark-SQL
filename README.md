@@ -9,8 +9,7 @@ This project focuses on cleaning, standardizing, and analyzing job listings data
 3. **Data Cleaning:** Clean and preprocess the data to address inconsistencies, missing values, and standardize various fields. This includes handling categorical data, dates, numerical data, and text-based information.
 4. **Data Transformation:** Transform the cleaned data into a structured format suitable for analysis, including standardizing salaries, extracting skills, and creating new features.
 5. **Data Analysis:** Perform exploratory data analysis using Spark SQL and PySpark to extract insights and trends from the data. This includes identifying in-demand skills, top job titles, and salary ranges by city.
-6. **Data Visualization:** Create visualizations (using libraries like Matplotlib or Seaborn) to present the findings in a clear and concise manner.
-7. **Reporting and Insights:** Summarize the project's findings and insights in a report format, highlighting key trends and observations.
+6. **Reporting and Insights:** Summarize the project's findings and insights in a report format, highlighting key trends and observations.
 
 ## Tools and Technologies:
 
