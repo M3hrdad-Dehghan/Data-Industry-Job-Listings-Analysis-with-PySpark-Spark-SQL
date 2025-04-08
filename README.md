@@ -1,4 +1,4 @@
-# Job Listings Data Analysis Project
+# Job Listings Data Analysis Project with PySpark and Spark SQL
 
 This project focuses on cleaning, standardizing, and analyzing job listings data scraped from multiple job boards (like LinkedIn, Indeed, Glassdoor, etc.). The goal is to gain insights into the current job market trends and provide valuable information to job seekers and employers.
 
